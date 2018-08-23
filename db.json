@@ -1,3 +1,4 @@
+my_callback(
 {
   "posts": [
     { "id": 1, "title": "json-server", "author": "typicode" }
@@ -8,3 +9,4 @@
   ],
   "profile": { "name": "typicode" }
 }
+  )
